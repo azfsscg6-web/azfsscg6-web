@@ -1,10 +1,11 @@
+
 <div align="center">
   <h1 align="center">Hi there 👋, I'm Ahmed Wael</h1>
   <h3 align="center">AI Engineering & Machine Learning Enthusiast | Computer Science Student</h3>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=azfsscg6&color=blue&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=flat-square" alt="Status">
 </p>
 
@@ -30,16 +31,18 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azfsscg6&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfsscg6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/azfsscg6" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <!-- تقدر تضيف لينكد إن أو أي وسيلة تواصل هنا -->
-</p>
+  <a href="mailto:azfsscg6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="
